@@ -1,6 +1,7 @@
 # project
 
 > A Vue.js project
+> 此项目是用Vue + Webpack实现的一个用户信息管理后台，该后台能够提供用户信息的增删改查、单页面跳转等功能。
 
 ## Build Setup
 
@@ -18,4 +19,10 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 技术栈
+***
+vue + webpack + bootstrap + JavaScript + css + html
+
+# 效果演示图
+***
+ ![demo](https://github.com/NekoZhong/customer/blob/master/cunstom.gif)
